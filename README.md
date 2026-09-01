@@ -21,8 +21,6 @@ I specialize in the end-to-end data lifecycle: from building robust data pipelin
   <img src="https://img.shields.io/badge/Focus-Pipelines,_Insights_&_ML-6E56CF?style=flat-square" alt="Analytics focus"/>
 </p>
 
-Currently, I work in AI and Operations Analytics at Amazon. Previously, I supported consumer auto lending and credit-risk analytics at Wells Fargo and client analytics delivery at Cognizant.
-
 ---
 
 ## 👩‍💻 About Me
