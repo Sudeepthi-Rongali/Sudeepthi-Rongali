@@ -69,6 +69,14 @@ Currently, I work in AI and Operations Analytics at Amazon. Previously, I suppor
 
 These are self-directed case studies and projects built with public, synthetic, or sample data to demonstrate end-to-end capabilities across Analytics, Engineering, and AI/ML.
 
+### 🚀 [Real-Time Data Pipeline (Data Engineering)](https://github.com/Sudeepthi-Rongali/real-time-data-pipeline)
+**Kafka | Flink | Iceberg | Trino | MinIO | Superset**  
+A complex, real-time data pipeline architecture. Demonstrates streaming data systems and modern data lakehouse patterns.
+
+### 🧠 [Local RAG Chatbot (AI/ML)](https://github.com/Sudeepthi-Rongali/rag-chatbot)
+**Python | LangChain | LLMs | Vector Databases**  
+A Retrieval-Augmented Generation (RAG) application to chat with multiple PDFs locally. Demonstrates document embedding, vector similarity search, and generative AI integration.
+
 ### 🤖 [Customer Churn Prediction (AI/ML)](https://github.com/Sudeepthi-Rongali/customer-churn-prediction-ml)
 **Python | scikit-learn | XGBoost | FastAPI | Pandas**  
 An end-to-end machine learning project to predict customer churn. Includes exploratory data analysis, feature engineering, model training (XGBoost/Random Forest), hyperparameter tuning, and a REST API deployment using FastAPI for real-time inference.
