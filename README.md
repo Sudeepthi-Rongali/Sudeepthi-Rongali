@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sudeepthi Rongali
 
-<h3 align="center">Data Analyst · Data Engineer · AI/ML Practitioner</h3>
+<h3 align="center">Data Analyst · Data Engineer · AI/ML </h3>
 
 I specialize in the end-to-end data lifecycle: from building robust data pipelines and warehousing (Data Engineering), to uncovering actionable business insights (Data Analytics), and developing predictive models (AI/Machine Learning).
 
