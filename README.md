@@ -67,11 +67,11 @@ I specialize in the end-to-end data lifecycle: from building robust data pipelin
 
 These are self-directed case studies and projects built with public, synthetic, or sample data to demonstrate end-to-end capabilities across Analytics, Engineering, and AI/ML.
 
-### 🚀 [Real-Time Data Pipeline (Data Engineering)](https://github.com/Sudeepthi-Rongali/real-time-data-pipeline)
+### 🚀 [Real-Time Data Pipeline (Data Engineering)](https://github.com/Sudeepthi-Rongali/realtime-data-pipeline)
 **Kafka | Flink | Iceberg | Trino | MinIO | Superset**  
 A complex, real-time data pipeline architecture. Demonstrates streaming data systems and modern data lakehouse patterns.
 
-### 🧠 [Local RAG Chatbot (AI/ML)](https://github.com/Sudeepthi-Rongali/rag-chatbot)
+### 🧠 [Local RAG Chatbot (AI/ML)](https://github.com/Sudeepthi-Rongali/local-rag-chatbot)
 **Python | LangChain | LLMs | Vector Databases**  
 A Retrieval-Augmented Generation (RAG) application to chat with multiple PDFs locally. Demonstrates document embedding, vector similarity search, and generative AI integration.
 
